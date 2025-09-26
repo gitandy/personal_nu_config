@@ -1,7 +1,7 @@
-personel_nu_config
+personal_nu_config
 ================
 
-Personel Nushell theme, layout and alias configuration
+Personal Nushell theme, layout and alias configuration
 
 
 Usage
