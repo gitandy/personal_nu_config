@@ -9,6 +9,7 @@ let color_orange = '#d65d0e'
 let color_purple = '#b16286'
 let color_red = '#cc241d'
 let color_yellow = '#d79921'
+let color_brown = '#7e7267'
 
 # Data types
 $env.config.color_config.datetime = $color_purple
@@ -28,6 +29,8 @@ $env.config.color_config.shape_closure = { fg: $color_green attr: b}
 #$env.config.color_config.shape_external = $color_blue
 $env.config.color_config.shape_externalarg = { fg: $color_green attr: b}
 #$env.config.color_config.shape_internalcall = { fg: $color_aqua attr: b}
+
+$env.config.color_config.hints = $color_brown
 
 # Table
 $env.config.color_config.header = $color_green
